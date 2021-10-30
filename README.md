@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ismendoza
-- 👀 I’m interested in programming and relational databases
-- 🌱 I’m currently learning jetstream and Android (kotlin)
-- 💞️ I’m looking to collaborate on build databases on oracle and mysql
+- 👀 I’m interested in programming Laravel and relational databases
+- 🌱 I’m currently learning vuejs
+- 💞️ I’m looking to collaborate on build databases on oracle and mysql, laravel and angular applications
 - 📫 How to reach me ...
 
 <!---

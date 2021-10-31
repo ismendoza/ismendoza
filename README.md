@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ismendoza
 - 👀 I’m interested in programming Laravel and relational databases
-- 🌱 I’m currently learning vuejs
+- 🌱 I’m currently learning vuejs and microsoft azure
 - 💞️ I’m looking to collaborate on build databases on oracle and mysql, laravel and angular applications
 - 📫 How to reach me ...
 

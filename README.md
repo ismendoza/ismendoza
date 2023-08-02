@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ismendoza
-- 👀 I’m interested in programming Laravel and relational databases
-- 🌱 I’m currently learning vuejs and android
-- 💞️ I’m looking to collaborate on build databases on oracle and mysql, laravel and angular applications
+- 👀 I’m interested in programming Next JS, Laravel, Vuejs and relational databases
+- 🌱 I’m currently learning android
+- :computer: I work on Fedora Workstation and Fedora Server
+- 💞️ I’m looking to collaborate on build databases on oracle and mysql, web applications
 - 📫 How to reach me ...
 
 <!---

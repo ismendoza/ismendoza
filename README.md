@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ismendoza
-- 👀 I’m interested in programming Next JS, Laravel, Vuejs and relational databases
-- 🌱 I’m currently learning Kali
-- :computer: I work on Fedora Workstation and Fedora Server
+- 👋 Hi, I’m Ismael mendoza I am Computing science engineer
+- 👀 I’m interested in programming Next JS, Laravel, Vuejs, Nodejs, relational databases and Linux
+- 🌱 I’m currently learning bash, Kali
+- :computer: I work on linux :pin Fedora Workstation and Fedora Server 
 - 💞️ I’m looking to collaborate on build databases on oracle and mysql, web applications
 - 📫 How to reach me ...
 
